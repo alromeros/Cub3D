@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto consiste en el desarrollo de un motor gráfico en C basado en el juego [Wolfestein 3D](https://es.wikipedia.org/wiki/Wolfenstein_3D). 
+Simple motor gráfico en C basado en el juego [Wolfestein 3D](https://es.wikipedia.org/wiki/Wolfenstein_3D). 
 
 ## Documentación
 
